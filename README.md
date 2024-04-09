@@ -1,5 +1,11 @@
 # energy-forecasting
-As a part of a graduate course in Time Series Analysis, my teammates (Claire Boyd, Kathryn Link-Oberstar, Megan Moore) and I built forecasting models to predict monthly residential electricity consumption in California. Key details:
+As a part of a graduate course in Time Series Analysis, my teammates (Claire Boyd, Kathryn Link-Oberstar, Megan Moore) and I built forecasting models to predict monthly residential electricity consumption in California. 
+
+## Resources:
+* [Final Presentation](ca_forecasting_final_deck.pdf)
+* [pdf of R code](code_sample_R_time_series.pdf) 
+
+## Key details:
 
 * **Consumption Patterns**: We found 3 distinct consumption patterns from 1990-2005, from 2005-2010, and from 2010-2019. The first could be tied to population, economic growth, the second to policy changes around appliances and incentives and the last to larger initiatives around renewable energy and public awarenesss
 ![Alt text](image.png)
