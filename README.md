@@ -1,5 +1,5 @@
 # energy-forecasting
-As a part of a graduate course in Time Series Analysis, my teammates (Claire Boyd, Kathryn Link-Oberstar, Megan Moore) and I built forecasting models to predict monthly residential electricity consumption in California. 
+As a part of a graduate course in Time Series Analysis, I built forecasting models to predict monthly residential electricity consumption in California. 
 
 ## Resources:
 * [Final Presentation](ca_forecasting_final_deck.pdf)
